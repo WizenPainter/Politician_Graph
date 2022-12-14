@@ -19,7 +19,7 @@ This file is accredited specifically to Ion Cararus.
 We find this file to contain the procedure used to obtain the data for the different politicians. Beware that to obtain the whole data it is necessary to
 use a vpn to be able to scrape the internet on different countries.
 
-## V2
+## Network
 
 In this folder you can find different files pertaining mainly to the networks. This folder is accredited to Magnus Bøje Madsen. In it the 
 following files are found:
