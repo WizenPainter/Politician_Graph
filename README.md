@@ -32,3 +32,7 @@ In this notebook we do all the different tests with our data and generate wordcl
 
 We can find all the work done in network analysis on this file. This file also contains the division into different sections of the network and the final
 findings on the influence each politician has.
+
+### Wikidata Retrieval
+
+This file is similar to New test as it shows how we obtain the data from the internet for all the articles on each of our politicians.
