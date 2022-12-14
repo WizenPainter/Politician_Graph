@@ -35,4 +35,4 @@ findings on the influence each politician has.
 
 ### Wikidata Retrieval
 
-This file is similar to New test as it shows how we obtain the data from the internet for all the articles on each of our politicians.
+This file is similar to New test as it shows how we obtain the data from the internet for all the articles on each of our politicians, but it's only the data from wikipedia.
